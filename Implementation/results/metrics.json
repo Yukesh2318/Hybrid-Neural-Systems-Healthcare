@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.8055555555555556,
+  "precision": 0.9270833333333334,
+  "recall_sensitivity": 0.7606837606837606,
+  "f1_score": 0.8356807511737089,
+  "roc_auc": 0.881698548365215,
+  "test_samples": 180,
+  "threshold": 0.5,
+  "warning": "Synthetic educational data only; not clinical performance."
+}
